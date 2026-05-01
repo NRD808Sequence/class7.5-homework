@@ -1,0 +1,5 @@
+# service account keys
+*.json
+
+# macOS
+.DS_Store
